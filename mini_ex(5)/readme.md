@@ -9,3 +9,5 @@ towards the mixture of these novels.
 Besides the Ri.Markov function, i played around with different font types downloaded from the internet. I also unsuccesfully
 tried to use different functions from Ri.Marko, however i couldn't make it work. The RiTa Library was very poor in its
 functionality. It seems as my editor wouldn't use the different functions, which i intended. 
+
+The materiality of text/intercace and our understanding of the “textual character” of the found text. 

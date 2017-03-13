@@ -1,4 +1,4 @@
-The Novel Mixer
+The Novel Mixer : https://mikkelabildgaard.github.io/All-mini-ex/mini_ex(5)/
 
 This program has used a few elements from the RiTa Library. The program is most importantly based on the generate.sentences function.
 The function allows the program to mix different sentences into a certain textpiece. In my case i had chosen two classic novels

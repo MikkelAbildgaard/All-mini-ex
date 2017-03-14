@@ -13,3 +13,5 @@ tried to use different functions from Ri.Marko, however i couldn't make it work.
 functionality. It seems as my editor wouldn't use the different functions, which i intended. 
 
 The materiality of text/intercace and our understanding of the “textual character” of the found text. 
+
+The text highly outlines the difference in materiality in account to literature. As humans we have a hard time accepting the fact of electronic literature. Our ability to understand and analyze often comes from feeling objects - such as "normal literature". Besides this, editing electronic literature is also an element to take in perspective. Are hard copys more trustworthy?

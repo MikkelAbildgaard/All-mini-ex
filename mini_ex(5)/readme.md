@@ -1,5 +1,7 @@
 The Novel Mixer : https://mikkelabildgaard.github.io/All-mini-ex/mini_ex(5)/
 
+<img width="498" alt="skaermbillede 2017-03-13 kl 12 23 53" src="https://cloud.githubusercontent.com/assets/25741692/23893881/71b498a0-08a0-11e7-9127-2c09b868a63b.png">
+
 This program has used a few elements from the RiTa Library. The program is most importantly based on the generate.sentences function.
 The function allows the program to mix different sentences into a certain textpiece. In my case i had chosen two classic novels
 from two different centuries: John Steinbecks "Of Mice and Men" and E.L James' "Fifty Shades of Grey". The contrasts between

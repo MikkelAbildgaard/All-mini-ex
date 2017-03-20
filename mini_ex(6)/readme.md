@@ -9,7 +9,7 @@ Description and rules:
 
 "The Storm".
 
-This program uses randomness, regeneration and repetition to generate the storm. I tried sticking to these rules as they charecterize generative art. The generativity is highly expressed by the structured "randomness" in this case. The program is built on the regenerating of the p5.Vectors. Playing around with the values and other factors made it look like a storm. I added the background, as i thought it would add more of a context to the storm. However my work doesn't seem as aesthetically well as i supposed the outcome to be. 
+This program uses randomness, regeneration and repetition to generate the storm. I tried sticking to these rules as they charecterize generative art. The generativity is highly expressed by the structured "randomness" in this case. The program is built on the regenerating of the p5.Vectors. Playing around with the values and other factors made it look like a storm. I added the background, as i thought it would add more of a context to the storm. However my work doesn't seem as aesthetically well as i supposed the outcome to be. This stands in contrast to the idea of generative art systems - as mine lacks this aspect more or less
 
 By using some of the concepts from the article - Generative Art Theory, can you discuss how is your program expressed the notion of generativity
 

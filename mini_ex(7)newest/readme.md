@@ -8,4 +8,6 @@ This program is built on Daniel Shiffmans code about the slider dance. It has be
 
 What are the advantages in using objects and what might be the limitations? What's your experience in using objects? 
 
-Some of the limitations i encountered was definitely placing the placement. I had a hard time placing both sliders and checkboxes. I had to look at others programs to find the answer to do this. To be continued..
+Some of the limitations i encountered was definitely placing the placement. I had a hard time placing both sliders and checkboxes. I had to look at others programs to find the answer to do this. The use of HTML for aesthetic intentions is an important element, however it may challenge your coding process eventually. I beleve that for form-art personally, you have exceed these limitations to really create something good. 
+
+Some of the advantages include the classifying element. When using several codes at once, it's easier to manage it this way. Another force of the using DOM elements, is that you can "quite" easily create interactions between buttons, sliders and so forth. 

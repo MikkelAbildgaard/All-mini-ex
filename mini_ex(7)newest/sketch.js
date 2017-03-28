@@ -10,7 +10,7 @@ var img1;
 var themesong;
 
 function preload(){
-  img = loadImage('assets/dancingspongebob.gif');
+  
   themesong = loadSound('assets/themesong.mp3');
 }
 
@@ -76,7 +76,8 @@ function draw() {
 }
 
 function addsponge(){
-  image(img,400,400);
+  img = createImage('assets/dancingspongebob.gif');
+  img.position(400,400);
   
 }
 

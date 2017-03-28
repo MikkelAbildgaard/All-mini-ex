@@ -76,7 +76,7 @@ function draw() {
 }
 
 function addsponge(){
-  img = createImage('assets/dancingspongebob.gif');
+  img = createVideo('assets/dancingspongebob.gif');
   img.position(400,400);
   
 }

@@ -1,4 +1,4 @@
-
+https://mikkelabildgaard.github.io/All-mini-ex/mini_ex(8)
 
 <img width="563" alt="skaermbillede 2017-04-03 kl 09 57 29" src="https://cloud.githubusercontent.com/assets/25741692/24600367/9301700a-1854-11e7-8623-b8a47f147ee1.png">
 
